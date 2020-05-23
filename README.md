@@ -1,2 +1,5 @@
-# problem-solving
-coding problem solving using different data structures and algorithms
+# Problem-Solving
+#### Coding problem solving using different data structures and algorithms
+
+##### Problem 1: Sock Merchant - Finding matching pairs of socks.
+
