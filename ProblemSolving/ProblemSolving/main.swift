@@ -8,6 +8,10 @@
 
 import Foundation
 
+print("Problem 2: Couting Valleys")
+print("valleys count: \(countingValleys(n: 9, s: "DUDDDUDUUUD"))")
+print("---------------------------------")
+
 //Problem - Sock Merchant - Hacker Rank
 //Finding Marching Pairs of socks.
 

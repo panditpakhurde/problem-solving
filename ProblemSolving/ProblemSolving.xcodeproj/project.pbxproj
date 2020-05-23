@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D52E60CF24792606004A1D04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60CE24792606004A1D04 /* main.swift */; };
 		D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60D72479268F004A1D04 /* SockMerchant.swift */; };
+		D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60DB24792D68004A1D04 /* CountingValleys.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,8 @@
 		D52E60CE24792606004A1D04 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D52E60D62479266B004A1D04 /* sock-merchant.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "sock-merchant.pdf"; sourceTree = "<group>"; };
 		D52E60D72479268F004A1D04 /* SockMerchant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SockMerchant.swift; sourceTree = "<group>"; };
+		D52E60DA24792D39004A1D04 /* counting-valleys.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "counting-valleys.pdf"; sourceTree = "<group>"; };
+		D52E60DB24792D68004A1D04 /* CountingValleys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingValleys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				D52E60CE24792606004A1D04 /* main.swift */,
+				D52E60D924792D39004A1D04 /* CountingValleys */,
 				D52E60D52479266B004A1D04 /* SockMerchant */,
 			);
 			path = ProblemSolving;
@@ -73,6 +77,15 @@
 				D52E60D72479268F004A1D04 /* SockMerchant.swift */,
 			);
 			path = SockMerchant;
+			sourceTree = "<group>";
+		};
+		D52E60D924792D39004A1D04 /* CountingValleys */ = {
+			isa = PBXGroup;
+			children = (
+				D52E60DA24792D39004A1D04 /* counting-valleys.pdf */,
+				D52E60DB24792D68004A1D04 /* CountingValleys.swift */,
+			);
+			path = CountingValleys;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D52E60CF24792606004A1D04 /* main.swift in Sources */,
+				D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */,
 				D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
