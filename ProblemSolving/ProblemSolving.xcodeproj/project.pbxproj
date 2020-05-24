@@ -10,6 +10,7 @@
 		D52E60CF24792606004A1D04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60CE24792606004A1D04 /* main.swift */; };
 		D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60D72479268F004A1D04 /* SockMerchant.swift */; };
 		D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60DB24792D68004A1D04 /* CountingValleys.swift */; };
+		D57F9F61247A57390068C81B /* JumpingOnTheClouds.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		D52E60D72479268F004A1D04 /* SockMerchant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SockMerchant.swift; sourceTree = "<group>"; };
 		D52E60DA24792D39004A1D04 /* counting-valleys.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "counting-valleys.pdf"; sourceTree = "<group>"; };
 		D52E60DB24792D68004A1D04 /* CountingValleys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingValleys.swift; sourceTree = "<group>"; };
+		D57F9F5F247A571D0068C81B /* jumping-on-the-clouds.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "jumping-on-the-clouds.pdf"; sourceTree = "<group>"; };
+		D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpingOnTheClouds.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				D52E60CE24792606004A1D04 /* main.swift */,
+				D57F9F5E247A571D0068C81B /* JumpingOnTheClouds */,
 				D52E60D924792D39004A1D04 /* CountingValleys */,
 				D52E60D52479266B004A1D04 /* SockMerchant */,
 			);
@@ -86,6 +90,15 @@
 				D52E60DB24792D68004A1D04 /* CountingValleys.swift */,
 			);
 			path = CountingValleys;
+			sourceTree = "<group>";
+		};
+		D57F9F5E247A571D0068C81B /* JumpingOnTheClouds */ = {
+			isa = PBXGroup;
+			children = (
+				D57F9F5F247A571D0068C81B /* jumping-on-the-clouds.pdf */,
+				D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */,
+			);
+			path = JumpingOnTheClouds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -147,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D52E60CF24792606004A1D04 /* main.swift in Sources */,
+				D57F9F61247A57390068C81B /* JumpingOnTheClouds.swift in Sources */,
 				D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */,
 				D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */,
 			);
