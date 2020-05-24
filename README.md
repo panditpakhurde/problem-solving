@@ -7,3 +7,6 @@
 
 ##### Problem 3: Jumping On The Clouds - Hacker Rank
 
+##### Problem 4: Repeated String (Count the number of letter 'a''s in the first n letters of infinite string) - Hacker Rank
+
+

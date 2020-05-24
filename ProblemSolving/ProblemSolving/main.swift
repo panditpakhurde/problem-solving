@@ -9,6 +9,11 @@
 import Foundation
 
 //Problem - Jumping On The Clouds - Hacker Rank
+print("Problem 4: Repeated String")
+print("Number of letter 'a's in first n letters of infinite string: \(repeatedString(s: "aba", n: 10))")
+print("---------------------------------")
+
+//Problem - Jumping On The Clouds - Hacker Rank
 print("Problem 3: Jumping On The Clouds")
 print("Jumping On The Clouds Count: \(jumpingOnClouds(c: [0, 0, 1, 0, 0, 0, 1, 0]))")
 print("---------------------------------")

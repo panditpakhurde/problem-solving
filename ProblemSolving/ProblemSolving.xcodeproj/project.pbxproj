@@ -11,6 +11,7 @@
 		D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60D72479268F004A1D04 /* SockMerchant.swift */; };
 		D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60DB24792D68004A1D04 /* CountingValleys.swift */; };
 		D57F9F61247A57390068C81B /* JumpingOnTheClouds.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */; };
+		D57F9F65247A71630068C81B /* RepeatedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = D57F9F64247A71630068C81B /* RepeatedString.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +35,8 @@
 		D52E60DB24792D68004A1D04 /* CountingValleys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingValleys.swift; sourceTree = "<group>"; };
 		D57F9F5F247A571D0068C81B /* jumping-on-the-clouds.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "jumping-on-the-clouds.pdf"; sourceTree = "<group>"; };
 		D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JumpingOnTheClouds.swift; sourceTree = "<group>"; };
+		D57F9F63247A71370068C81B /* repeated-string.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "repeated-string.pdf"; sourceTree = "<group>"; };
+		D57F9F64247A71630068C81B /* RepeatedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				D52E60CE24792606004A1D04 /* main.swift */,
+				D57F9F62247A71370068C81B /* RepeatedString */,
 				D57F9F5E247A571D0068C81B /* JumpingOnTheClouds */,
 				D52E60D924792D39004A1D04 /* CountingValleys */,
 				D52E60D52479266B004A1D04 /* SockMerchant */,
@@ -99,6 +103,15 @@
 				D57F9F60247A57390068C81B /* JumpingOnTheClouds.swift */,
 			);
 			path = JumpingOnTheClouds;
+			sourceTree = "<group>";
+		};
+		D57F9F62247A71370068C81B /* RepeatedString */ = {
+			isa = PBXGroup;
+			children = (
+				D57F9F63247A71370068C81B /* repeated-string.pdf */,
+				D57F9F64247A71630068C81B /* RepeatedString.swift */,
+			);
+			path = RepeatedString;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -162,6 +175,7 @@
 				D52E60CF24792606004A1D04 /* main.swift in Sources */,
 				D57F9F61247A57390068C81B /* JumpingOnTheClouds.swift in Sources */,
 				D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */,
+				D57F9F65247A71630068C81B /* RepeatedString.swift in Sources */,
 				D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
