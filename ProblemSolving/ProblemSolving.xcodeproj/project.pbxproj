@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C68DAF524A1E5CA00314411 /* CountingHourglasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C68DAF424A1E5CA00314411 /* CountingHourglasses.swift */; };
 		D52E60CF24792606004A1D04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60CE24792606004A1D04 /* main.swift */; };
 		D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60D72479268F004A1D04 /* SockMerchant.swift */; };
 		D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60DB24792D68004A1D04 /* CountingValleys.swift */; };
@@ -27,6 +28,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		1C68DAF324A1E59000314411 /* 2d-array-Hourglass.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2d-array-Hourglass.pdf"; sourceTree = "<group>"; };
+		1C68DAF424A1E5CA00314411 /* CountingHourglasses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountingHourglasses.swift; sourceTree = "<group>"; };
 		D52E60CB24792606004A1D04 /* ProblemSolving */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProblemSolving; sourceTree = BUILT_PRODUCTS_DIR; };
 		D52E60CE24792606004A1D04 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D52E60D62479266B004A1D04 /* sock-merchant.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "sock-merchant.pdf"; sourceTree = "<group>"; };
@@ -50,6 +53,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C68DAF224A1E54900314411 /* 2DArray-Hourglass */ = {
+			isa = PBXGroup;
+			children = (
+				1C68DAF324A1E59000314411 /* 2d-array-Hourglass.pdf */,
+				1C68DAF424A1E5CA00314411 /* CountingHourglasses.swift */,
+			);
+			path = "2DArray-Hourglass";
+			sourceTree = "<group>";
+		};
 		D52E60C224792606004A1D04 = {
 			isa = PBXGroup;
 			children = (
@@ -70,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				D52E60CE24792606004A1D04 /* main.swift */,
+				1C68DAF224A1E54900314411 /* 2DArray-Hourglass */,
 				D57F9F62247A71370068C81B /* RepeatedString */,
 				D57F9F5E247A571D0068C81B /* JumpingOnTheClouds */,
 				D52E60D924792D39004A1D04 /* CountingValleys */,
@@ -173,6 +186,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D52E60CF24792606004A1D04 /* main.swift in Sources */,
+				1C68DAF524A1E5CA00314411 /* CountingHourglasses.swift in Sources */,
 				D57F9F61247A57390068C81B /* JumpingOnTheClouds.swift in Sources */,
 				D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */,
 				D57F9F65247A71630068C81B /* RepeatedString.swift in Sources */,
