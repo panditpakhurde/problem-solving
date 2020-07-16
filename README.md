@@ -9,4 +9,10 @@
 
 ##### Problem 4: Repeated String (Count the number of letter 'a''s in the first n letters of infinite string) - Hacker Rank
 
+##### Problem 5: 2D Array - Finding maximum hourglass sum in the array - Hacker Rank
+
+##### Problem 6: Rotate an array to Left - Hacker Rank
+
+
+
 
