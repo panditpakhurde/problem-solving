@@ -8,6 +8,11 @@
 
 import Foundation
 
+//Problem - New Year Chaos (Get Minimum Bribes)
+print("Problem 7: New Year Chaos: Get Minimum Bribes")
+minimumBribes(q: [2,1,5,4,3])
+print("---------------------------------")
+
 //Problem - Arrays: Left Rotation
 print("Problem 6: Arrays: Left Rotation")
 print("Rotate Array to Left: \(rotLeft(a: [1,2,3,4,5], d: 3)) ")

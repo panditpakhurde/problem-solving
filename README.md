@@ -13,6 +13,8 @@
 
 ##### Problem 6: Rotate an array to Left - Hacker Rank
 
+##### Problem 7: New Year Chaos (Get Minimum Bribes) - Hacker Rank
+
 
 
 
