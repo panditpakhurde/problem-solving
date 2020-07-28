@@ -13,7 +13,9 @@
 
 ##### Problem 6: Rotate an array to Left - Hacker Rank
 
-##### Problem 7: Minimum Swaps in Array (Find minimum swaps required to order the array - Hacker Rank
+##### Problem 7: Minimum Swaps in Array (Find minimum swaps required to order the array) - Hacker Rank
+
+##### Problem 8: Is common substring possible in two strings (return result in 'String' format with values 'YES' or 'NO') - Hacker Rank
 
 
 

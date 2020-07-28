@@ -8,10 +8,16 @@
 
 import Foundation
 
-//Problem - Minimum Swaps in Array (Find minimum swaps required to order the array
+//Problem - Is common substring possible in two strings (return result in 'String' format with values 'YES' or 'NO')
+print("Problem 7: Is common substring possible in two strings")
+let s1 = "Hi", s2 = "World"
+print("Is common substring possible between '\(s1)' and '\(s2)': \(twoStrings(s1: s1, s2: s2))")
+print("---------------------------------")
+
+//Problem - Minimum Swaps in Array (Find minimum swaps required to order the array)
 print("Problem 7: Minimum Swaps required to order the array")
 let unorderedArray = [5,3,6,4,1,2]
-print("Minimum swaps required to sort \(unorderedArray) is \(minimumSwaps(arr: unorderedArray))")
+print("Minimum swaps required to sort '\(unorderedArray)' is \(minimumSwaps(arr: unorderedArray))")
 print("---------------------------------")
 
 //Problem - New Year Chaos (Get Minimum Bribes)
