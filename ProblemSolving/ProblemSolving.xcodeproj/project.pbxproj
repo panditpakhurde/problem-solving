@@ -10,6 +10,7 @@
 		1C68DAF524A1E5CA00314411 /* CountingHourglasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C68DAF424A1E5CA00314411 /* CountingHourglasses.swift */; };
 		1C68DAF924A1EF2F00314411 /* ArraysLeftRotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C68DAF824A1EF2F00314411 /* ArraysLeftRotation.swift */; };
 		1C83A90F24CAEC6600D15FF4 /* NewYearChaos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C83A90E24CAEC6600D15FF4 /* NewYearChaos.swift */; };
+		1CA0108024CEFA97007E7DAF /* MinimumSwapArray.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CA0107F24CEFA97007E7DAF /* MinimumSwapArray.swift */; };
 		D52E60CF24792606004A1D04 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60CE24792606004A1D04 /* main.swift */; };
 		D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60D72479268F004A1D04 /* SockMerchant.swift */; };
 		D52E60DC24792D68004A1D04 /* CountingValleys.swift in Sources */ = {isa = PBXBuildFile; fileRef = D52E60DB24792D68004A1D04 /* CountingValleys.swift */; };
@@ -36,6 +37,8 @@
 		1C68DAF824A1EF2F00314411 /* ArraysLeftRotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysLeftRotation.swift; sourceTree = "<group>"; };
 		1C83A90D24CAEC1F00D15FF4 /* new-year-chaos.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "new-year-chaos.pdf"; sourceTree = "<group>"; };
 		1C83A90E24CAEC6600D15FF4 /* NewYearChaos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewYearChaos.swift; sourceTree = "<group>"; };
+		1CA0107E24CEFA48007E7DAF /* minimum-swaps-2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "minimum-swaps-2.pdf"; sourceTree = "<group>"; };
+		1CA0107F24CEFA97007E7DAF /* MinimumSwapArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumSwapArray.swift; sourceTree = "<group>"; };
 		D52E60CB24792606004A1D04 /* ProblemSolving */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProblemSolving; sourceTree = BUILT_PRODUCTS_DIR; };
 		D52E60CE24792606004A1D04 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D52E60D62479266B004A1D04 /* sock-merchant.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "sock-merchant.pdf"; sourceTree = "<group>"; };
@@ -86,6 +89,15 @@
 			path = NewYearChaos;
 			sourceTree = "<group>";
 		};
+		1CA0107D24CEFA1E007E7DAF /* MinimumSwapArray */ = {
+			isa = PBXGroup;
+			children = (
+				1CA0107E24CEFA48007E7DAF /* minimum-swaps-2.pdf */,
+				1CA0107F24CEFA97007E7DAF /* MinimumSwapArray.swift */,
+			);
+			path = MinimumSwapArray;
+			sourceTree = "<group>";
+		};
 		D52E60C224792606004A1D04 = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +117,7 @@
 		D52E60CD24792606004A1D04 /* ProblemSolving */ = {
 			isa = PBXGroup;
 			children = (
+				1CA0107D24CEFA1E007E7DAF /* MinimumSwapArray */,
 				1C83A90B24CAEBDF00D15FF4 /* NewYearChaos */,
 				1C68DAF624A1EED900314411 /* Arrays-LeftRoation */,
 				D52E60CE24792606004A1D04 /* main.swift */,
@@ -219,6 +232,7 @@
 				D57F9F65247A71630068C81B /* RepeatedString.swift in Sources */,
 				1C83A90F24CAEC6600D15FF4 /* NewYearChaos.swift in Sources */,
 				D52E60D82479268F004A1D04 /* SockMerchant.swift in Sources */,
+				1CA0108024CEFA97007E7DAF /* MinimumSwapArray.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

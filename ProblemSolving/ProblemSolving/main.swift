@@ -8,6 +8,12 @@
 
 import Foundation
 
+//Problem - Minimum Swaps in Array (Find minimum swaps required to order the array
+print("Problem 7: Minimum Swaps required to order the array")
+let unorderedArray = [5,3,6,4,1,2]
+print("Minimum swaps required to sort \(unorderedArray) is \(minimumSwaps(arr: unorderedArray))")
+print("---------------------------------")
+
 //Problem - New Year Chaos (Get Minimum Bribes)
 print("Problem 7: New Year Chaos: Get Minimum Bribes")
 minimumBribes(q: [2,1,5,4,3])
